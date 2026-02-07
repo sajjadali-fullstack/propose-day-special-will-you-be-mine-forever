@@ -13,7 +13,9 @@ const noDialogues = [
 const successImages = [
     "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODFuYXU2cjVpeGUyZndvaW5hbXJkdHJ1cnRkbjEwNjNiMnNqZXJ6YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5dUllWbKVlaqmMTvHb/giphy.gif",
     "https://media.tenor.com/3G-r0jTZmDkAAAAi/laugh-cute.gif",
-    "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHk0d2txdHhtYXo3OTNicjRjbWt4dmwwaXBkYmRwNDh2cm5zaWI5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1wmOyZYoGzz003R03Y/giphy.gif"
+    "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHk0d2txdHhtYXo3OTNicjRjbWt4dmwwaXBkYmRwNDh2cm5zaWI5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1wmOyZYoGzz003R03Y/giphy.gif",
+    "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG1lNGgwNThoNnVlMnZuOXVmMDV2NHpkMnBkZHpmYThhb20ydDVwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yezzIIxFRnvZC11RXk/giphy.gif",
+    "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHdubDUwemFmbHF2Zm16aTYwZHFwaXh5djNyMGxsaWFocXk2MWJ2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ILR9ESuh85FdMfaDIJ/giphy.gif",
 ];
 
 let currentIndex = 0;
